@@ -1,0 +1,17 @@
+.card {
+	padding: 30px;
+	display: flex;
+	align-items: center;
+	justify-content: space-around;
+	font-size: 12px;
+	border: dotted black;
+	border-radius: 5px;
+	margin: 15px 0px;
+}
+
+.card img {
+	width: 250px;
+	border: solid black;
+	margin-right: 20px;
+	border-radius: 5px;
+}

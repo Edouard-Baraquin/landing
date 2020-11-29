@@ -1,0 +1,24 @@
+@import url("https://fonts.googleapis.com/css2?family=Castoro&display=swap");
+@import url("components/container.css");
+@import url("components/avatar.css");
+@import url("components/button.css");
+@import url("components/banner.css");
+@import url("components/card.css");
+@import url("components/cards.css");
+
+body{
+	font-family: 'Castoro', serif;
+	font-size: 19px;
+}
+
+h1,h2,h3{
+
+	font-family: 'Castoro', serif;
+	font-size: 25px
+	color: #16697A;
+	font-weight: bold;
+}
+a {
+	text-decoration: none;
+	font-family: arial;
+}
